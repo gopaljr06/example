@@ -9,8 +9,8 @@ public class ExampleService {
 	 char op;
 
 	public double getCal(char op) {
-	    double num1=2;
-	    double num2=3;
+	    double num1=25;
+	    double num2=20;
 	 this.op=op;
 	 double o = 0;
 
